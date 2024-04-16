@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Login_Cookie:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Login_Cookie</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Login_Cookie-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Login_Cookie:war exploded" />
+    </root>
+  </artifact>
+</component>
